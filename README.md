@@ -1,8 +1,8 @@
 # Fish, The Package Manager
 
-Features, usage and installation instructions can be found in the [documentation](docs/README.md).
+Features, usage and installation instructions can be found on the [homepage](http://gofi.sh).
 
-## What does Fish do?
+## What is Fish?
 
 Fish is a cross-platform systems package manager, bringing the ease of use of Homebrew to
 Linux and Windows.
@@ -74,7 +74,7 @@ food = {
 
 ## Troubleshooting
 
-For troubleshooting, see the [Troubleshooting Guide](docs/troubleshooting.md).
+For troubleshooting, see the [Troubleshooting Guide](http://gofi.sh/troubleshooting).
 
 ## Security
 
