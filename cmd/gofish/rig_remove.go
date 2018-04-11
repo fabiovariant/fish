@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/fishworks/fish"
-	"github.com/fishworks/fish/pkg/ohai"
+	"github.com/fish"
+	"github.com/fish/pkg/ohai"
 	"github.com/spf13/cobra"
 )
 

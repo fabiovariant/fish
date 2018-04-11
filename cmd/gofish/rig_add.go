@@ -3,11 +3,11 @@ package main
 import (
 	"time"
 
-	"github.com/fishworks/fish/pkg/ohai"
+	"github.com/fish/pkg/ohai"
 
-	"github.com/fishworks/fish"
+	"github.com/fish"
 
-	"github.com/fishworks/fish/pkg/rig/installer"
+	"github.com/fish/pkg/rig/installer"
 	"github.com/spf13/cobra"
 )
 

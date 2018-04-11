@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/fishworks/fish"
+	"github.com/fish"
 )
 
 var _ Installer = new(LocalInstaller)

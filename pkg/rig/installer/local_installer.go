@@ -3,9 +3,9 @@ package installer
 import (
 	"path/filepath"
 
-	"github.com/fishworks/fish"
-	"github.com/fishworks/fish/pkg/osutil"
-	"github.com/fishworks/fish/pkg/rig"
+	"github.com/fish"
+	"github.com/fish/pkg/osutil"
+	"github.com/fish/pkg/rig"
 )
 
 // LocalInstaller installs rigs from the filesystem

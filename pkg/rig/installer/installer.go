@@ -4,8 +4,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/fishworks/fish"
-	"github.com/fishworks/fish/pkg/rig"
+	"github.com/fish"
+	"github.com/fish/pkg/rig"
 )
 
 // Installer provides an interface for installing client rigs.

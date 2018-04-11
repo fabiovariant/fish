@@ -15,7 +15,7 @@ import (
 
 	"github.com/docker/docker/pkg/archive"
 
-	"github.com/fishworks/fish/pkg/osutil"
+	"github.com/fish/pkg/osutil"
 )
 
 // Food provides metadata to install a piece of software.

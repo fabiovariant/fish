@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/fishworks/fish"
+	"github.com/fish"
 	"github.com/spf13/cobra"
 )
 

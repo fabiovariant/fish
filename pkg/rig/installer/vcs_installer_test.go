@@ -8,8 +8,8 @@ import (
 
 	"github.com/Masterminds/vcs"
 
-	"github.com/fishworks/fish"
-	"github.com/fishworks/fish/pkg/rig"
+	"github.com/fish"
+	"github.com/fish/pkg/rig"
 )
 
 var _ Installer = new(VCSInstaller)

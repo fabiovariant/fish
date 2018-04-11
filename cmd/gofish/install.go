@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fishworks/fish"
-	"github.com/fishworks/fish/pkg/ohai"
+	"github.com/fish"
+	"github.com/fish/pkg/ohai"
 	"github.com/spf13/cobra"
 	"github.com/yuin/gluamapper"
 	"github.com/yuin/gopher-lua"
